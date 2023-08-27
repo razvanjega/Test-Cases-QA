@@ -9,6 +9,7 @@ Below are some test case samples that I wrote while working on previous projects
 Check if the login works when a person uses a corect user/pass.
 
 **Type:** Functional
+
 **Priority:** High
 
 **Steps to Reproduce**
@@ -34,6 +35,7 @@ Check if the login works when a person uses a corect user/pass.
 Check if the login works when a person uses a incorect user/pass.
 
 **Type:** Functional
+
 **Priority:** High
 
 **Steps to Reproduce**
